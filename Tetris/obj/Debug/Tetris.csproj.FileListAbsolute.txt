@@ -1,0 +1,20 @@
+C:\Users\Marat\Documents\Visual Studio 2008\Projects\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Marat\Documents\Visual Studio 2008\Projects\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\Marat\Documents\Visual Studio 2008\Projects\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Marat\Documents\Visual Studio 2008\Projects\Tetris\Tetris\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marat\Documents\Visual Studio 2008\Projects\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Marat\Documents\Visual Studio 2008\Projects\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+C:\Users\Marat\Documents\Visual Studio 2008\Projects\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\Marat\Documents\Visual Studio 2008\Projects\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Marat\Documents\Visual Studio 2008\Projects\Tetris\Tetris\obj\Debug\Tetris.MainForm.resources
+C:\Users\Marat\Documents\Visual Studio 2008\Projects\Tetris\Tetris\obj\Debug\Tetris.View.resources
+H:\Documents\Programming\C#\PROJECTS\Tetris\Tetris\bin\Debug\Tetris.exe.config
+H:\Documents\Programming\C#\PROJECTS\Tetris\Tetris\obj\Debug\Tetris.exe
+H:\Documents\Programming\C#\PROJECTS\Tetris\Tetris\obj\Debug\Tetris.pdb
+H:\Documents\Programming\C#\PROJECTS\Tetris\Tetris\bin\Debug\Tetris.exe
+H:\Documents\Programming\C#\PROJECTS\Tetris\Tetris\bin\Debug\Tetris.pdb
+H:\Documents\Programming\C#\PROJECTS\Tetris\Tetris\obj\Debug\ResolveAssemblyReference.cache
+H:\Documents\Programming\C#\PROJECTS\Tetris\Tetris\obj\Debug\Tetris.MainForm.resources
+H:\Documents\Programming\C#\PROJECTS\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+H:\Documents\Programming\C#\PROJECTS\Tetris\Tetris\obj\Debug\Tetris.View.resources
+H:\Documents\Programming\C#\PROJECTS\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
